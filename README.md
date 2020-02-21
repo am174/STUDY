@@ -1,0 +1,2 @@
+# study
+lets learn programming
